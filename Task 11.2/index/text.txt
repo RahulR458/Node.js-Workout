@@ -1,0 +1,5 @@
+
+user name is Jhon
+user name is RAHUL
+user name is LALLU
+Appending text using sync function : User Name is LALLU
